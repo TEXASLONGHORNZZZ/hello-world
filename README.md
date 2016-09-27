@@ -1,2 +1,5 @@
 # hello-world
-First project
+
+Hello everyone!
+
+Steven here, I like Node.js and CoffeeScript. 
